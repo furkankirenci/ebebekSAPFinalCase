@@ -37,7 +37,7 @@ install.bat -r b2c_acc_plus start
 
  - Tüm bu işlemlerin ardından `https://localhost:9002`'ye erişmeyi başardım.  
 
-<img src="https://github.com/furkankirenci/ebebekSAPFinalCase/blob/main/SAP%20Hybris/Screenshot_13.png" alt="selection-sort" />
+<img src="https://github.com/furkankirenci/ebebekSAPFinalCase/blob/main/SAP%20Hybris/Screenshot_15.png" alt="selection-sort" />
 
 <img src="https://github.com/furkankirenci/ebebekSAPFinalCase/blob/main/SAP%20Hybris/Screenshot_12.png" alt="selection-sort" />
 
