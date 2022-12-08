@@ -16,7 +16,7 @@
 
 <img src="https://github.com/furkankirenci/ebebekSAPFinalCase/blob/main/SAP%20Hybris/Screenshot_2.png" alt="selection-sort" />
 
-- SAP'nin sitesindeki kurulum komutları sıralsıyla kullanıldı.
+- SAP'nin sitesindeki kurulum komutları sırasıyla kullanıldı.
 ```java
 install.bat -r b2c_acc_plus -A local_property:initialpassword.admin=your_password
 ```
